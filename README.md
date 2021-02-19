@@ -6,10 +6,12 @@ A great thanks to Dr. Angela Yu for her teaching in Udemy online course.
 
 A great thanks to Andrew Jazbec to provide REST API to get Kanye West quotes. https://kanye.rest/
 
+
 Target achieved:
 1. Create window, canvas, text, image, button by using tkinter.
 2. Send REST API to get random Kanye West quotes.
 3. Update text on canvus.
+
 
 Problem solved:
 1. Module Tkinter: import class TK, Canvas, PhotoImage and Button.
@@ -17,9 +19,11 @@ Problem solved:
 3. Update the text from the HTTP response (in JSON format).
 4. Raise issues if HTTP RESPONSE status code is not 200.
 
+
 Skills/concepts used in this project:
 1. Send HTTP REQ and receive HTTP RESPONSE
 2. Define a function to update quotes in canvas.
+
 
 From: Linan Tao
 
